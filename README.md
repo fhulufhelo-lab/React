@@ -1,3 +1,4 @@
+![React-icon](https://github.com/user-attachments/assets/c5118b57-41ef-4e11-9f6d-76d601ff0c72)
 <p align="center">
   <img src="./resources/React-icon.svg" alt="React Logo" width="250" />
 </p>
